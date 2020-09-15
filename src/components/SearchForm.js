@@ -18,7 +18,7 @@ const searchCocktail = () => {
 }
 
   return (
-    <section className="section">
+    <section className="section container1">
       <h2 className="section-title">Search cocktails</h2>
       <form className="form search-form" onSubmit={handleSubmit}>
         <div className="form-control">
